@@ -30,3 +30,8 @@ License
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+    
+    
+    
+    
+[1]: https://github.com/DoronK/Twitter_Connetion_Example/blob/master/screenshots/device-2015-11-06-183006.png
